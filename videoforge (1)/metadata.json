@@ -1,0 +1,6 @@
+{
+  "name": "VideoForge - Mobile Video Editor",
+  "description": "Mobile multi-track timeline video editor for creators with Whisper speech-to-text, TTS voice-overs, auto-captions, effects, transitions, and FFmpeg rendering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
